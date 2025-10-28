@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO\\TRPO7-main\\TRPO7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFC6722-B775-4BFE-84FE-93DA27E14C28}|TRPO7\\TRPO7.csproj|c:\\users\\admin\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo\\trpo7-main\\trpo7\\trpo7\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFC6722-B775-4BFE-84FE-93DA27E14C28}|TRPO7\\TRPO7.csproj|solutionrelative:trpo7\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFC6722-B775-4BFE-84FE-93DA27E14C28}|TRPO7\\TRPO7.csproj|c:\\users\\admin\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo\\trpo7-main\\trpo7\\trpo7\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EAFC6722-B775-4BFE-84FE-93DA27E14C28}|TRPO7\\TRPO7.csproj|solutionrelative:trpo7\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFC6722-B775-4BFE-84FE-93DA27E14C28}|TRPO7\\TRPO7.csproj|c:\\users\\admin\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo\\trpo7-main\\trpo7\\trpo7\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFC6722-B775-4BFE-84FE-93DA27E14C28}|TRPO7\\TRPO7.csproj|solutionrelative:trpo7\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFC6722-B775-4BFE-84FE-93DA27E14C28}|TRPO7\\TRPO7.csproj|c:\\users\\admin\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo\\trpo7-main\\trpo7\\trpo7\\pacient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFC6722-B775-4BFE-84FE-93DA27E14C28}|TRPO7\\TRPO7.csproj|solutionrelative:trpo7\\pacient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pacient.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO\\TRPO7-main\\TRPO7\\TRPO7\\Pacient.cs",
+              "RelativeDocumentMoniker": "TRPO7\\Pacient.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO\\TRPO7-main\\TRPO7\\TRPO7\\Pacient.cs",
+              "RelativeToolTip": "TRPO7\\Pacient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T08:36:32.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO\\TRPO7-main\\TRPO7\\TRPO7\\Doctor.cs",
+              "RelativeDocumentMoniker": "TRPO7\\Doctor.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO\\TRPO7-main\\TRPO7\\TRPO7\\Doctor.cs",
+              "RelativeToolTip": "TRPO7\\Doctor.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowF8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T05:52:58.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO\\TRPO7-main\\TRPO7\\TRPO7\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TRPO7\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO\\TRPO7-main\\TRPO7\\TRPO7\\MainWindow.xaml",
+              "RelativeToolTip": "TRPO7\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-22T05:46:58.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO\\TRPO7-main\\TRPO7\\TRPO7\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TRPO7\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO\\TRPO7-main\\TRPO7\\TRPO7\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TRPO7\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAD4v2YAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T05:46:57.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

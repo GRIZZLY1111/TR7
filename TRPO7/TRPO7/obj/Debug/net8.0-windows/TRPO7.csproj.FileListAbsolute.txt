@@ -1,0 +1,41 @@
+C:\Users\st310-08\Desktop\Солихов\TR7\TRPO7\TRPO7\bin\Debug\net8.0-windows\TRPO7.exe
+C:\Users\st310-08\Desktop\Солихов\TR7\TRPO7\TRPO7\bin\Debug\net8.0-windows\TRPO7.deps.json
+C:\Users\st310-08\Desktop\Солихов\TR7\TRPO7\TRPO7\bin\Debug\net8.0-windows\TRPO7.runtimeconfig.json
+C:\Users\st310-08\Desktop\Солихов\TR7\TRPO7\TRPO7\bin\Debug\net8.0-windows\TRPO7.dll
+C:\Users\st310-08\Desktop\Солихов\TR7\TRPO7\TRPO7\bin\Debug\net8.0-windows\TRPO7.pdb
+C:\Users\st310-08\Desktop\Солихов\TR7\TRPO7\TRPO7\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\st310-08\Desktop\Солихов\TR7\TRPO7\TRPO7\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\st310-08\Desktop\Солихов\TR7\TRPO7\TRPO7\obj\Debug\net8.0-windows\TRPO7_MarkupCompile.cache
+C:\Users\st310-08\Desktop\Солихов\TR7\TRPO7\TRPO7\obj\Debug\net8.0-windows\TRPO7_MarkupCompile.lref
+C:\Users\st310-08\Desktop\Солихов\TR7\TRPO7\TRPO7\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\st310-08\Desktop\Солихов\TR7\TRPO7\TRPO7\obj\Debug\net8.0-windows\TRPO7.g.resources
+C:\Users\st310-08\Desktop\Солихов\TR7\TRPO7\TRPO7\obj\Debug\net8.0-windows\TRPO7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st310-08\Desktop\Солихов\TR7\TRPO7\TRPO7\obj\Debug\net8.0-windows\TRPO7.AssemblyInfoInputs.cache
+C:\Users\st310-08\Desktop\Солихов\TR7\TRPO7\TRPO7\obj\Debug\net8.0-windows\TRPO7.AssemblyInfo.cs
+C:\Users\st310-08\Desktop\Солихов\TR7\TRPO7\TRPO7\obj\Debug\net8.0-windows\TRPO7.csproj.CoreCompileInputs.cache
+C:\Users\st310-08\Desktop\Солихов\TR7\TRPO7\TRPO7\obj\Debug\net8.0-windows\TRPO7.sourcelink.json
+C:\Users\st310-08\Desktop\Солихов\TR7\TRPO7\TRPO7\obj\Debug\net8.0-windows\TRPO7.dll
+C:\Users\st310-08\Desktop\Солихов\TR7\TRPO7\TRPO7\obj\Debug\net8.0-windows\refint\TRPO7.dll
+C:\Users\st310-08\Desktop\Солихов\TR7\TRPO7\TRPO7\obj\Debug\net8.0-windows\TRPO7.pdb
+C:\Users\st310-08\Desktop\Солихов\TR7\TRPO7\TRPO7\obj\Debug\net8.0-windows\TRPO7.genruntimeconfig.cache
+C:\Users\st310-08\Desktop\Солихов\TR7\TRPO7\TRPO7\obj\Debug\net8.0-windows\ref\TRPO7.dll
+C:\Users\admin\OneDrive\Рабочий стол\TRPO\TRPO7-main\TRPO7\TRPO7\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\admin\OneDrive\Рабочий стол\TRPO\TRPO7-main\TRPO7\TRPO7\obj\Debug\net8.0-windows\TRPO7_MarkupCompile.cache
+C:\Users\admin\OneDrive\Рабочий стол\TRPO\TRPO7-main\TRPO7\TRPO7\obj\Debug\net8.0-windows\TRPO7.dll
+C:\Users\admin\OneDrive\Рабочий стол\TRPO\TRPO7-main\TRPO7\TRPO7\obj\Debug\net8.0-windows\refint\TRPO7.dll
+C:\Users\admin\OneDrive\Рабочий стол\TRPO\TRPO7-main\TRPO7\TRPO7\obj\Debug\net8.0-windows\TRPO7.pdb
+C:\Users\admin\OneDrive\Рабочий стол\TRPO\TRPO7-main\TRPO7\TRPO7\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\admin\OneDrive\Рабочий стол\TRPO\TRPO7-main\TRPO7\TRPO7\obj\Debug\net8.0-windows\TRPO7_MarkupCompile.lref
+C:\Users\admin\OneDrive\Рабочий стол\TRPO\TRPO7-main\TRPO7\TRPO7\bin\Debug\net8.0-windows\TRPO7.exe
+C:\Users\admin\OneDrive\Рабочий стол\TRPO\TRPO7-main\TRPO7\TRPO7\bin\Debug\net8.0-windows\TRPO7.deps.json
+C:\Users\admin\OneDrive\Рабочий стол\TRPO\TRPO7-main\TRPO7\TRPO7\bin\Debug\net8.0-windows\TRPO7.runtimeconfig.json
+C:\Users\admin\OneDrive\Рабочий стол\TRPO\TRPO7-main\TRPO7\TRPO7\bin\Debug\net8.0-windows\TRPO7.dll
+C:\Users\admin\OneDrive\Рабочий стол\TRPO\TRPO7-main\TRPO7\TRPO7\bin\Debug\net8.0-windows\TRPO7.pdb
+C:\Users\admin\OneDrive\Рабочий стол\TRPO\TRPO7-main\TRPO7\TRPO7\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\admin\OneDrive\Рабочий стол\TRPO\TRPO7-main\TRPO7\TRPO7\obj\Debug\net8.0-windows\TRPO7.g.resources
+C:\Users\admin\OneDrive\Рабочий стол\TRPO\TRPO7-main\TRPO7\TRPO7\obj\Debug\net8.0-windows\TRPO7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Рабочий стол\TRPO\TRPO7-main\TRPO7\TRPO7\obj\Debug\net8.0-windows\TRPO7.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Рабочий стол\TRPO\TRPO7-main\TRPO7\TRPO7\obj\Debug\net8.0-windows\TRPO7.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Рабочий стол\TRPO\TRPO7-main\TRPO7\TRPO7\obj\Debug\net8.0-windows\TRPO7.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Рабочий стол\TRPO\TRPO7-main\TRPO7\TRPO7\obj\Debug\net8.0-windows\TRPO7.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Рабочий стол\TRPO\TRPO7-main\TRPO7\TRPO7\obj\Debug\net8.0-windows\ref\TRPO7.dll
